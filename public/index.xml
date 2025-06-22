@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>a minor Frequency : Notes</title>
-    <link>https://aMinorFrequency.github.io/</link>
-    <description>Recent content on a minor Frequency : Notes</description>
+    <title>a minor frequency : notes</title>
+    <link>https://skipgoshannon.github.io/AMinorFrequency.github.io/</link>
+    <description>Recent content on a minor frequency : notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 21 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://aMinorFrequency.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://skipgoshannon.github.io/AMinorFrequency.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Two</title>
-      <link>https://aMinorFrequency.github.io/posts/typora-test-post/</link>
+      <link>https://skipgoshannon.github.io/AMinorFrequency.github.io/posts/typora-test-post/</link>
       <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://aMinorFrequency.github.io/posts/typora-test-post/</guid>
+      <guid>https://skipgoshannon.github.io/AMinorFrequency.github.io/posts/typora-test-post/</guid>
       <description>&lt;p&gt;This is a test post number two, I want to see if I can use typora to update my hugo blog. Fingers crossed&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Test Post</title>
-      <link>https://aMinorFrequency.github.io/posts/a-test-post/</link>
+      <link>https://skipgoshannon.github.io/AMinorFrequency.github.io/posts/a-test-post/</link>
       <pubDate>Tue, 27 May 2025 01:33:13 -0400</pubDate>
-      <guid>https://aMinorFrequency.github.io/posts/a-test-post/</guid>
+      <guid>https://skipgoshannon.github.io/AMinorFrequency.github.io/posts/a-test-post/</guid>
       <description>&lt;p&gt;This post is a test to see if my blog is working correctly.&lt;/p&gt;</description>
     </item>
     <item>
       <title>yet another Test Post</title>
-      <link>https://aMinorFrequency.github.io/posts/yet-another/</link>
+      <link>https://skipgoshannon.github.io/AMinorFrequency.github.io/posts/yet-another/</link>
       <pubDate>Tue, 27 May 2025 01:33:13 -0400</pubDate>
-      <guid>https://aMinorFrequency.github.io/posts/yet-another/</guid>
+      <guid>https://skipgoshannon.github.io/AMinorFrequency.github.io/posts/yet-another/</guid>
       <description>&lt;p&gt;A second test post because I forgot how I did this, it&amp;rsquo;s been a couple of weeks since I tried this out.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Artists Log</title>
-      <link>https://aMinorFrequency.github.io/posts/artists-log/</link>
+      <link>https://skipgoshannon.github.io/AMinorFrequency.github.io/posts/artists-log/</link>
       <pubDate>Tue, 27 May 2025 00:22:15 -0400</pubDate>
-      <guid>https://aMinorFrequency.github.io/posts/artists-log/</guid>
+      <guid>https://skipgoshannon.github.io/AMinorFrequency.github.io/posts/artists-log/</guid>
       <description>&lt;p&gt;I’ve decided to start work on a new art project, which will culminate in an exhibit/installation a little over a year from now. It’s quite a large undertaking. It requires me to learn to build computers and other technology, and also learn to code in javascript and Processing. I’m currently writing this on the raspberry pi computer that I put together for this project, and I’ll be doing any coding or other work pertaining to the project only on this computer.&lt;/p&gt;</description>
     </item>
   </channel>
