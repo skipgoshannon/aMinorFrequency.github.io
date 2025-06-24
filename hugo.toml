@@ -64,3 +64,7 @@ lazyLoading = true
     title = "GitHub"
     url = "https://github.com/imgios/not-much"
     weight = 5
+    
+    [caches]
+     [caches.images]
+      dir = ':cacheDir/images'
