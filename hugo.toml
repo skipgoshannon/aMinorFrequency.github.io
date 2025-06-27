@@ -51,19 +51,7 @@ lazyLoading = true
     url = "/about"
     weight = 2
   
-  [[menu.main]]
-    identifier = "tags"
-    name = "tags"
-    title = "tags"
-    url = "/tags"
-    weight = 4
 
-  [[menu.main]]
-    identifier = "github"
-    name = "github"
-    title = "GitHub"
-    url = "https://github.com/imgios/not-much"
-    weight = 5
     
     [caches]
      [caches.images]
