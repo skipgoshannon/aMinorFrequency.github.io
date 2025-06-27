@@ -1,0 +1,30 @@
++++
+
+date = '2025-06-25'
+draft = false
+title = 'Learning to Learn'
+
++++
+It's been a long time since I was in school. I didn't really want to be there. 
+
+The social politics wore me out, and I was never very good at all of that. I was cool enough to have a group of friends, but not cool enough to feel confident in any way. Social dynamics and hierarchies  were overwhelming. And of course, I just generally didn't like it when people told me where I had to be and what I was supposed to be doing. All of this added up to a true hatred of school, starting around the 7th grade and lasting until I left early (also known as 'dropping out,') in the 11th grade. 
+
+I got a GED and eventually went to college, which was better in a lot of ways. But even then, I was preoccupied with my new friend group, drinking and smoking, bands, skateboarding, trying to bury my newfound questions around my sexuality. I don't want to admit that I was a bit of a slacker, but for a time there I definitely was.
+
+At some point in life, I became a bit of an autodidact. Away from distractions like other people and the emotions that were tied to them, I became obsessed with learning how to do all kinds of things. Mostly related to art, but also related to technology. I was smack in the middle of Gen X, and during my early 20s computers and this newfangled "internet" were all the rage. I'd gotten my first computer in the mid 1980s when I was around ten years old. One the last gifts I got from "Santa" before I learned the terrible truth. The computer was a Radio Shack brand, the TRS-80. It came with a little book that featured a smiling cartoon computer and some rainbows on the cover. The book was an introduction to the BASIC programming language, and in the back there were several snippets of code you could try out for yourself. 
+
+I was determined to try them out, but I could never seem to get the typing right. This was at least 4 years before my first typing class, so I had no idea what I was doing. I finally gave up in frustration, and the computer was only used from that moment on to play video games that I loaded using a cassette tape. For some reason, I never tried programming again until at least 15 years later, when I wanted to learn to make my own websites. 
+
+I did okay with HTML and CSS, and it was fun to make websites back when the WWW was the wild wild west. Everything was exciting and new, and there were so many ways to learn new things! I made websites to showcase my art, and I used the internet to learn to make more art. I was learning to screenprint with online guides, I was learning to use photoshop while it was still relatively new, I was learning page layout software and illustration software (RIP, Macromedia Freehand). All of this lead me to a career in graphic design that lasted for 15 years or so, and a subsequent career as a professional photographer. For some reason, I never went much further into learning to code. Until now.
+
+Recently I started hearing about Processing and p5.js. I was intruiged with the idea of getting away from Adobe, and making digital art with code instead of a mouse. It reminded me of my days click clacking away at that TRS-80 keyboard in 1984, except now I'm actually pretty darn good at typing. As an aside, my wife and I even have a working Apple IIe, and I bought another copy of that TRS-80 book on ebay, so I can play around with BASIC. So far, it's been a lot of fun, and it gave me some ideas for making art that I'm really excited about. 
+
+It's nothing groundbreaking, if I'm honest. There are plenty of people using Processing and combining it with pen plotters and handmade art. I've been really enjoying digging into the online world of creative coders on Reddit, Instagram, Youtube, even good old Tumblr. It's very inspriring! I'm looking forward to learning more and getting better at it so I can start creating some real pieces. 
+
+I currently work in an amazing local art space, where the community has access to all kinds of tools and equipment for all kinds of printmaking such as screenprinting, block printing, letterpress, drypoint, and so on. We have a darkroom and a ceramics studio, as well. I'm planning on utilizing as much of that hands on experience as I can, while also creating drawings and animations using code. I built a raspberry pi desktop computer using a 3d printer and some other parts, which is what I'm using to type this blog. I plan to do everything for the eventual exhibit using only this computer, aside from things like the screenprinting illustrations that I'll probably create in illustrator on my mac, or the block printing and letterpress printing that I'll do by hand completely. Or I might 3d print some relief blocks to use in the letterpress, which is how I made my business cards last year. Sky is the limit, really. 
+
+One thing I'm excited about is creating animations that will be played in loops on tiny screens attached to raspberry pi or ardinuo boards, which I will put inside wooden frames and hang on the walls of the space. I'm still having a little trouble getting the screens to work with the raspberry pi, but like most things, I'll figure it out. I finally figured out how to get this hugo blog deployed onto my github account, and that in itself was more of a feat than I was expecting. 
+
+Anyway, that's the update for now. I plan to make more posts as I go, sharing my progress with code and with art leading up to the show that I have booked for next year. This was a general overview, but I want to get more into the details as I go along. I'm still working out some of the thought process behind all of this. Will there be a theme, besides just being a mix of digital and handmade, or is that in itself the theme? I'm not sure yet. I guess we'll find out together (if anyone is actually reading this). 
+
+Onward!
